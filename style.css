@@ -1,0 +1,78 @@
+body{
+  background-color: #421B9B;
+}
+h1{
+  color: whitesmoke;
+  font-family: 'Righteous', cursive;
+  text-align: center;
+}
+
+h2{
+  color:whitesmoke;
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  border: 2px solid #A06EE1;
+  border-radius: 12px;
+  background-color: #A06EE1;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+h3{
+  color:whitesmoke;
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  border: 2px solid #A06EE1;
+  border-radius: 12px;
+  background-color: #A06EE1;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+p{
+  color: whitesmoke;
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  border: 2px solid #A06EE1;
+  border-radius: 12px;
+  background-color: #A06EE1;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+#Begin{
+  margin-left: 450px;
+  margin-right: 400px;
+}
+#first-picture{
+margin-left: 492.5px;
+margin-right: 500px;
+}
+div{
+  text-align:center;
+}
+#Main-house{
+  margin-left: 492.5px;
+  margin-right: 400px;
+}
+#Continue1{
+  margin-left: 762.5px;
+}
+#Janken-Kid{
+  margin-left: 600px;
+}
+#Choice1{
+  margin-left: 625px;
+  background-color:whitesmoke;
+  font-family: 'Righteous', cursive;
+}
+#Choice2{
+  margin-left: 625px;
+  background-color:whitesmoke;
+  font-family: 'Righteous', cursive;
+}
+#Choice3{
+  margin-left: 625px;
+  background-color:whitesmoke;
+  font-family: 'Righteous', cursive;
+}
+#PearlJam{
+   margin-left: 550px;
+}
